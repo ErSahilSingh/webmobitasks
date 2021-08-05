@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+}
+.App{
+    background-color: rgb(233, 231, 231);
+}
+.img__2{
+  background-image: url(/src/image/webmobi1.jpg);
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+.img__1{
+  background-image: url(/src/image/sahil.jpg);
+  height: 40px;
+  width: 40px;
+  background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 10px;
+}
+
+.card__1{
+  border-radius: 10px;
+  height: 80vh;
+  width: 80vw;
+  margin-top: 30px;
+}
+
+
+ .hr__1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+.vl{
+  border-right: 1px solid rgb(206, 204, 204);
+  height: 475px;
+  
+}
+
+.hr__2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.purple{
+    color: rgb(105, 12, 172);
+}
+.purple__1{
+  background-color: rgb(105, 12, 172);
+}
+
+
